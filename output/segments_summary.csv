@@ -1,0 +1,9 @@
+segment,sentiment_group,win_rate,trades_per_day,leverage_proxy,Closed PnL
+High-Freq & High-Leverage,Fear,0.8841,4784.0,0.0265,184891.207
+High-Freq & High-Leverage,Greed,0.8025,1815.5,0.0418,191467.4223
+High-Freq & Low-Leverage,Fear,0.8559,8866.4,0.0097,408150.1053
+High-Freq & Low-Leverage,Greed,0.7049,2755.375,0.0103,80554.6499
+Low-Freq & High-Leverage,Fear,0.8709,528.6,0.0412,69407.8411
+Low-Freq & High-Leverage,Greed,0.7198,137.3846,0.042,35211.7453
+Low-Freq & Low-Leverage,Fear,0.8749,1869.5,0.0103,135833.0807
+Low-Freq & Low-Leverage,Greed,0.6765,211.1667,0.0123,58286.3192
